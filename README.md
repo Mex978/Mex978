@@ -6,7 +6,6 @@
 - 🔭 Working at [Maida.Health](https://maida.health/)
 - 🌱 Learning Flutter and Dart
 - 👯 Looking/Willing to contribute with Open Source projects
-- 😄 Pronouns: I don't care about it 🤣
 - ⚡ Fun fact: I love to play games
 
 ## Connect with me
