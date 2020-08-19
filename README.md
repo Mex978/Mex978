@@ -6,7 +6,7 @@
 - 🔭 Working at [Maida.Health](https://maida.health/)
 - 🌱 Learning Flutter and Dart
 - 👯 Looking/Willing to contribute with Open Source projects
-- ⚡ Fun fact: I love to play games
+- ⚡ Fun fact: I love to play games and to watch animes
 
 ## Connect with me
 
