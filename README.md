@@ -32,8 +32,12 @@
 
 ## Github Stats
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
+<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/mex978
 [instagram]: https://www.instagram.com/maxlima21/
 [linkedin]: https://www.linkedin.com/in/maxlima1/
+
+## Repositories Top Langs
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mex978&layout=compact)
