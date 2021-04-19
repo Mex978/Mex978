@@ -32,7 +32,7 @@
 
 ## Github Stats
 
-<img alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
+<img alt="Mex978 Github Stats" src="https://github-readme-stats.vercel.app/api?username=mex978&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/mex978
 [instagram]: https://www.instagram.com/maxlima21/
