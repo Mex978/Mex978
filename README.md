@@ -4,7 +4,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/mex978?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fmex978&screen_name=mex978)
 
 - 🎓 Computer Scientist - UFPI
-- 🌱 Learning Flutter and Dart
 - 👯 Looking/Willing to contribute with Open Source projects
 - ⚡ Fun fact: I love to play games and to watch animes
 
